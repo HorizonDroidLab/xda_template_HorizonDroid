@@ -1,4 +1,4 @@
-[img]https://i.imgur.com/oovfFdp.png[/img]
+[img]https://i.imgur.com/ZTuYv8t.jpeg[/img]​​​
 
 
 
@@ -41,13 +41,17 @@ We currently support Android 14 and Android 13, with the latest security patches
 
 
 
-
-[b][u]Disclaimer:[/u][/b]
-
-﻿Horizondroid (﻿HorizonDroidLab Android Distribution) members or anyone else on this website is not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the products you find here before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you. Your warranty will be void if you tamper with any part of your device/software.
+​[img]https://i.imgur.com/v0Vf9EB.jpeg[/img]​​​​
 
 
-[B][U]Features:[/U][/B]
+
+
+Disclaimer:
+
+Horizondroid (HorizonDroidLab Android Distribution) members or anyone else on this website is not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in the products you find here before flashing it! YOU are choosing to make these modifications, and if you point the finger at us for messing up your device, we will laugh at you. Your warranty will be void if you tamper with any part of your device/software.
+
+
+Features:
 
 ==========================================================================================
 
@@ -55,6 +59,9 @@ This List also apply to Tiramisu And Upside Down Cake
 
 
 Everything is working:
+
+
+[HIDE][CODE][LIST]
 
 
 
@@ -79,7 +86,7 @@ Everything is working:
 - Add a toggle to force LTE_CA
 
 
-- Add LockscreenCharging
+- Add Lockscreen Charging
 
 
 - Add option to use HEVC
@@ -130,81 +137,126 @@ Everything is working:
 - Add missing icon for media output
 
 
+- Add More About Team contributor
 
-[b][u]Known issues:[/u][/b]
+
+- Add Toggle for Settings UI Styles
+
+
+- Add Incall vibration options
+
+
+- Add Hotspot setting to allow VPN upstreams 
+
+
+- Add nvidia profile manager
+
+
+- Add Global VPN feature
+
+
+- Add Gravis GamePad Pro USB key layout
+
+
+- Add Nvcpl hook interfaces
+
+
+- Add Wifi standard icon feature
+
+
+- Add Custom settings layout
+
+
+- Redesign vibrate icon
+
+
+- Redesign seekbar
+
+
+- Bring in the new icon
+
+
+- Bring in Nothing 2.0 UI sound effects
+
+
+
+[/LIST][/CODE][/HIDE]
+
+
+
+Known issues:
 
 * NONE
 
 
-[b][u]Instructions:[/u][/b]
+Instructions:
 
-[list]
-
-[*]Download the latest build
-
-[*]Boot to recovery
-
-[*]Format Data install clena or wipe cache and dalvik for update
-
-[*]Flash the latest build
-
-[*]Reboot
-
-[/list]
+    Download the latest build
+    Boot to recovery
+    Format Data install clena or wipe cache and dalvik for update
+    Flash the latest build
+    Reboot
 
 
-[b][u]Downloads:[/u][/b]
+Downloads:
 
-https://sourceforge.net/projects/horizondroid/files/
+[URL unfurl="true"]https://sourceforge.net/projects/horizondroid/files/[/URL]
 
 
-[b][u]Source code:[/u][/b]
+Source code:
 
 Kernel Here
 
 
-[b][u]ROM's Source:[/u][/b]
+ROM's Source:
 
-[list]
-
-[*][url]https://github.com/HorizonDroidLab[/url]
-
-[/list]
+    https://github.com/HorizonDroidLab
 
 
-[b][u][SIZE="4"]Telegram group:[/SIZE][/u][/b]
+Telegram group:
 
-[url=https://t.me/horizondroidnews]HorizonDroid[/url]
+HorizonDroid
 
 
-[b][u][SIZE="4"]Devices List:[/SIZE][/u][/b]
+Devices List:
 
 - Marble
 
 - Sweet
 
-- Light
+- Vince
 
 - Stone
 
 - Zippo
 
-- Veux
+- Spartan
 
 - Alioth
 
-- Merlin
+- Mondrian
+
+- Asus X01AD
 
 - Topaz
 
 - Taoyao
 
+- Veux
 
-[b][u]Contributors[/u][/b]
+- Redwood
+
+- Beryllium
+
+- Rosemary
+
+
+
+Contributors
 
 Dev Founder: Aftershock990
 
-Co-Dev Sources: JYR_RC
+Co-Lead: JYR_RC
 
 Manager: isaiahscape
 
@@ -212,16 +264,15 @@ Desainer: endmin4096
 
 Desainer: zamkara
 
-[b]ROM OS Version:[/b] Android 13 And Android 14
+ROM OS Version: Android 13 And Android 14
 
 
-[b][u]Version Information[/u][/b]
+Version Information
 
-[b]Status:[/b] Stable
+Status: Stable
 
 
     Credits:
-
     PixelOS
     CAF
     AOSP
