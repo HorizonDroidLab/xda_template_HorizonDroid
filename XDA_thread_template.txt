@@ -214,64 +214,16 @@ ROM's Source:
 
 
 Telegram group:
-
 HorizonDroid
-
-
-Devices List:
-
-- Marble
-
-- Sweet
-
-- Vince
-
-- Stone
-
-- Zippo
-
-- Spartan
-
-- Alioth
-
-- Mondrian
-
-- Asus X01AD
-
-- Topaz
-
-- Taoyao
-
-- Veux
-
-- Redwood
-
-- Beryllium
-
-- Rosemary
-
-
+https://t.me/horizondroidchatroom
 
 Contributors
-
-Dev Founder: Aftershock990
-
+Dev Founder: superxorn
 Co-Lead: JYR_RC
 
-Manager: isaiahscape
-
-Desainer: endmin4096
-
-Desainer: zamkara
-
 ROM OS Version: Android 13 And Android 14
-
-
 Version Information
-
 Status: Stable
-
-
     Credits:
     PixelOS
     CAF
